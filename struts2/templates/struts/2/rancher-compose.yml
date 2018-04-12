@@ -1,5 +1,0 @@
-.catalog:
-  name: "Struts2"
-  version: "Struts2-048"
-  description: "漏洞验证地址为:http://localhost:8080/showcase"
-  uuid: 2
