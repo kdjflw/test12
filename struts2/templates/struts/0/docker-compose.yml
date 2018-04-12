@@ -1,0 +1,6 @@
+version: '2'
+services:
+ struts2:
+   image: gjpt1/s2-032:v1
+   ports:
+    - "8081:8080"
